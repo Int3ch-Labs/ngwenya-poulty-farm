@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "slug": "welcome-to-our-new-website",
+    "title": "Welcome to our new website",
+    "excerpt": "Ngwenyama Poultry Farm now has a home online. Here's what you can expect to find here.",
+    "content": "We're proud to bring Ngwenyama Poultry Farm online. This space is where we'll share updates on our flock, fresh egg availability, farm improvements, and community news.\n\nStop thinking and start doing \u2014 remember, good things come with patience. That's the philosophy behind everything we do here, from how we raise our hens to how we package every tray of eggs.\n\nCheck back often for updates from our team.",
+    "category": "Announcement",
+    "author": "Ngwenyama Poultry Farm",
+    "image": "",
+    "date": "2026-08-20",
+    "published": true
+  },
+  {
+    "id": "2",
+    "slug": "why-fresh-eggs-matter",
+    "title": "Why fresh eggs matter for your family",
+    "excerpt": "A look at what makes farm-fresh eggs different from what you find sitting on a supermarket shelf.",
+    "content": "Freshness affects flavour, texture, and nutrition. Eggs collected within days of laying have firmer whites, richer yolks, and hold their shape better when cooked.\n\nOur hens are cared for daily, and eggs are collected, checked, and stored properly before they ever reach a customer. That short journey from nest to table is what we mean when we talk about quality.",
+    "category": "Farm Life",
+    "author": "Ngwenyama Poultry Farm",
+    "image": "",
+    "date": "2026-08-28",
+    "published": true
+  }
+]
