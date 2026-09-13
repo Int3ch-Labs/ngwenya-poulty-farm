@@ -1,0 +1,68 @@
+{
+  "name": "Ngwenya Poultry Farm",
+  "short_name": "Ngwenya Farm",
+  "description": "Quality poultry products from Ngwenya Poultry Farm.",
+  "id": "/",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0a0a0a",
+  "orientation": "portrait-primary",
+  "categories": [
+    "business",
+    "utilities",
+    "shopping"
+  ],
+  "icons": [
+    {
+      "src": "/logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Home",
+      "url": "/",
+      "description": "Visit the home page"
+    },
+    {
+      "name": "About",
+      "url": "/about",
+      "description": "Learn about our farm"
+    },
+    {
+      "name": "Our Eggs",
+      "url": "/products",
+      "description": "Explore our eggs"
+    },
+    {
+      "name": "Gallery",
+      "url": "/gallery",
+      "description": "View our farm gallery"
+    },
+    {
+      "name": "Farm Updates",
+      "url": "/blog",
+      "description": "Read our farm updates"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact",
+      "description": "Contact Ngwenya Poultry Farm"
+    }
+  ]
+}
